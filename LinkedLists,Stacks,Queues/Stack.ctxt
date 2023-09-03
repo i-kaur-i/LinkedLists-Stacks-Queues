@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\n\ This\ is\ the\ linked\ list\ stack\ class\ that\ is\ inherited\ from\ list.\n\ This\ class\ extends\ the\ list\ parent\ class\ while\ it\ overrides\ the\n\ insert\ and\ remove\ method.\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 19th,\ 2020\n
+comment1.params=ob
+comment1.target=void\ push(java.lang.Object)
+comment1.text=\n\ This\ method\ is\ to\ add\ to\ the\ top\ of\ the\ stack.\n\ \n\ I\ made\ sure\ the\ object\ being\ passed\ in\ isn't\ null\ and\ then\n\ added\ the\ new\ object\ into\ the\ node.\n\n\ @param\:\ none\n\ *return\:\ int\n
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment2.text=\n\ This\ method\ is\ to\ remove\ the\ object.\n\ \n\ I\ checked\ if\ it's\ empty\ and\ then\ if\ it\ wasn't\n\ I\ removed\ the\ current\ object.\n\n\ @param\:\ none\n\ *return\:\ Object\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ This\ method\ is\ to\ test\ all\ of\ the\ methods.\n\ \n\ Made\ a\ new\ stack\ and\ added\ and\ printed\ to\ make\ sure\ they\ were\ all\ working.\n\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=4

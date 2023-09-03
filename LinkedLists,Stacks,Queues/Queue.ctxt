@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\n\ This\ is\ the\ linked\ list\ queue\ class,\ inherited\ from\ List.\n\ This\ class\ extends\ the\ list\ parent\ class\ and\ it\ \n\ overrides\ the\ insert\ and\ remove\ methods.\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 19th,\ 2020\n
+comment1.params=n
+comment1.target=void\ enqueue(java.lang.Object)
+comment1.text=\n\ This\ method\ is\ to\ add\ the\ object\ to\ the\ list.\n\ \n\ I\ made\ sure\ the\ object\ isn't\ null\ and\ then\ if\ it\ wasn't\n\ I\ added\ it\ to\ the\ node\ and\ stored\ it\ as\ a\ head.\n\n\ @param\:\ object\n\ *return\:\ none\n
+comment2.params=
+comment2.target=java.lang.Object\ dequeue()
+comment2.text=\n\ This\ method\ is\ to\ remove\ from\ the\ list.\n\ \n\ I\ made\ sure\ the\ invarients\ were\ followed\ and\ then\n\ removed\ the\ node\ from\ the\ end\ of\ the\ list.\n\n\ @param\:\ none\n\ *return\:\ object\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ This\ method\ is\ to\ test\ all\ of\ the\ methods.\n\ \n\ Made\ a\ new\ queue\ and\ added\ and\ printed\ to\ make\ sure\ they\ were\ all\ working.\n\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=4

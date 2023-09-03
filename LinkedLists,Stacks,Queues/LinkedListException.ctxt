@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LinkedListException
+comment0.text=\n\ This\ class\ extends\ the\ exception\ class\ and\ gives\ an\n\ exception.\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 19th,\ 2020\n
+comment1.params=
+comment1.target=LinkedListException()
+comment1.text=\n\ This\ constructor\ returns\ a\ message.\n\ \n\ It\ returns\ the\ super\ class\ and\ prints\ out\ the\ message\ \n\ needed.\n\n\ @param\:\ none\n\ *return\:\ none\n
+comment2.params=m
+comment2.target=LinkedListException(java.lang.String)
+comment2.text=\n\ This\ constructor\ takes\ in\ the\ message\ and\ returns\ it.\n\ \n\ The\ message\ being\ passed\ in\ is\ returned.\n\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=3
